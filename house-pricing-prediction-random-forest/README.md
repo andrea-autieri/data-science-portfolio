@@ -55,7 +55,7 @@ After preprocessing, the dataset was fully numerical and ready for machine learn
 ##  Exploratory Data Analysis (EDA)
 
 Key insights discovered:
-- House price distribution is right-skewed
+- The distribution of house prices is slightly right-skewed, with a long tail toward higher values
 - Larger living area strongly correlates with higher price
 - Overall quality is one of the strongest predictors of price
 
