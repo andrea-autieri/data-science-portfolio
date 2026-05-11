@@ -21,7 +21,7 @@ The dataset comes from the Kaggle competition:
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 ### Target variable:
-- SalePric` (house sale price)
+- SalePrice (house sale price)
 
 ### Features:
 - Numerical and categorical variables describing houses (size, quality, rooms, etc.)
